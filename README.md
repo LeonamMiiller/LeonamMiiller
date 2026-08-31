@@ -3,9 +3,18 @@
 
 <!-- ------------------------------------------------------- CABEÇALHO ------------------------------------------------------- -->
 <a href="https://github.com/LeonamMiiller">
-  <img src="https://github.com/LeonamMiiller.png" alt="Perfil Github" align="left" width="200" hspace="20">
+  <img src="https://github.com/LeonamMiiller.png" 
+       alt="Perfil Github" 
+       title="Acessar perfil do Github" 
+       align="left" 
+       width="250" 
+       vspace="20" 
+       hspace="12%" 
+       style="margin: 30px">
 </a>
 <br>
+&nbsp;
+&nbsp;
 
 ### _LEONAM WON-MIILLER DOS SANTOS_
 ---
@@ -25,11 +34,12 @@ _Desenvolvedor de Software_
     
 * **Telefone:** (45) 99844-6320
 * **E-mail:**	[Leonam.miiller@gmail.com](mailto:leonam.miiller@gmail.com)
-* **Github:** [LeonamMiiller](https://github.com/LeonamMiiller "Acessar perfil do GitHub")
+* **Github:** [LeonamMiiller](https://github.com/LeonamMiiller "Acessar perfil do Github")
 * **Linkedin:** [in/leonam-miiller][linkedin]
 * **Endereço:** Cascavel-PR
 * **Nacionalidade:** Brasileiro
 * **Data Nascimento:** 20/04/1992
+* **Estado Civil:** Casado
 
 [linkedin]: https://www.linkedin.com/in/leonam-miiller "Acessar perfil do LinkedIn"
 
@@ -37,7 +47,6 @@ _Desenvolvedor de Software_
 
 ### OBJETIVO
 * Desenvolvedor de Software com experiência em Delphi, Flutter, APIs REST, bancos de dados e cloud. Busco atuar em projetos desafiadores onde possa contribuir com soluções escaláveis e continuar evoluindo tecnicamente.
-
 
 * Mantendo-me sempre atualizado por meio de cursos online, videoaulas, tutoriais e documentações oficiais.
 
@@ -81,8 +90,8 @@ _Desenvolvedor de Software_
 * Desenvolver competência para analisar as necessidades e demandas da sociedade,    
   construir soluções que explorem e apliquem os recursos de informática e de novas tecnologias,    
   atuar com princípios éticos e promover o desenvolvimento humano.
-    
-  </td>   
+
+</td>   
   <td width="70%" valign="top">  
 <!-- -------------------------------------------------------- EXPERIÊNCIAS -------------------------------------------------------- -->  
 
