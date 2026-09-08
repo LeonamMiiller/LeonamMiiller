@@ -13,8 +13,7 @@
        style="margin: 30px">
 </a>
 <br>
-&nbsp;
-&nbsp;
+<br>
 
 ### _LEONAM WON-MIILLER DOS SANTOS_
 ---
@@ -31,6 +30,7 @@ _Desenvolvedor de Software_
 <!-- -------------------------------------------------------- PERFIL -------------------------------------------------------- -->    
 
 ### PERFIL
+#
     
 * **Telefone:** (45) 99844-6320
 * **E-mail:**	[Leonam.miiller@gmail.com](mailto:leonam.miiller@gmail.com)
@@ -96,51 +96,52 @@ _Desenvolvedor de Software_
 <!-- -------------------------------------------------------- EXPERIÊNCIAS -------------------------------------------------------- -->  
 
 ### EXPERIÊNCIA
+#
 
 #### ANALISTA DESENVOLVEDOR SÊNIOR | 08/2024 - 02/2026
-**NSTECH** - São Bernardo dos Campo-SP
-* Desenvolvi e mantive o sistema principal da empresa, utilizando Delphi/Pascal, OracleDB, NextJS e diversos frameworks 
-* Conduzi treinamentos técnicos para a equipe de desenvolvimento, elevando a produtividade e padronizando práticas.
-* Liderei a adoção de novas tecnologias e a implantação de planos de projetos.
+* **NSTECH** - São Bernardo dos Campo-SP
+  * Desenvolvi e mantive o sistema principal da empresa, utilizando Delphi/Pascal, OracleDB, NextJS e diversos frameworks 
+  * Conduzi treinamentos técnicos para a equipe de desenvolvimento, elevando a produtividade e padronizando práticas.
+  * Liderei a adoção de novas tecnologias e a implantação de planos de projetos.
 
 --- 
 
 #### ANALISTA DESENVOLVEDOR | 09/2023 - 08/2024
-**MAKER SOLUÇÕES TECNOLÓGICAS** - Cascavel-PR
-* Analisei e desenvolvi integrações entre diversos sistemas, melhorando a comunicação e o fluxo de dados entre plataformas.  
-* Entreguei soluções de integração que otimizaram processos operacionais e reduziram retrabalho manual.
+* **MAKER SOLUÇÕES TECNOLÓGICAS** - Cascavel-PR
+  * Analisei e desenvolvi integrações entre diversos sistemas, melhorando a comunicação e o fluxo de dados entre plataformas.  
+  * Entreguei soluções de integração que otimizaram processos operacionais e reduziram retrabalho manual.
 
 ---
 
 #### ANALISTA DESENVOLVEDOR SÊNIOR | 10/2020 - 04/2022
-**LINX** - Cascavel-PR
-* Desenvolvi soluções de software voltadas à melhoria de rotinas, processos e gestão, gerando maior eficiência operacional.  
-* Atuei na evolução de sistemas existentes, contribuindo para a otimização de fluxos de trabalho e suporte à tomada de decisão.
+* **LINX** - Cascavel-PR
+  * Desenvolvi soluções de software voltadas à melhoria de rotinas, processos e gestão, gerando maior eficiência operacional.  
+  * Atuei na evolução de sistemas existentes, contribuindo para a otimização de fluxos de trabalho e suporte à tomada de decisão.
 
 ---
 
 #### ANALISTA DESENVOLVEDOR | 05/2017 - 09/2020
-**A3Q LABORATÓRIOS** - Cascavel-PR
-* Fui responsável pelo desenvolvimento e manutenção do sistema principal da empresa, assegurando o funcionamento contínuo das operações.  
-* Administrei servidores Linux, bancos de dados e o fluxo de dados da organização, garantindo estabilidade, segurança e disponibilidade.  
-* Criei e melhorei rotinas de trabalho com novas tecnologias, além de desenvolver relatórios e fluxos de BI que apoiaram a gestão.  
-* Prestei suporte técnico ao parque tecnológico, resolvendo incidentes e mantendo a infraestrutura operacional.
+* **A3Q LABORATÓRIOS** - Cascavel-PR
+  * Fui responsável pelo desenvolvimento e manutenção do sistema principal da empresa, assegurando o funcionamento contínuo das operações.  
+  * Administrei servidores Linux, bancos de dados e o fluxo de dados da organização, garantindo estabilidade, segurança e disponibilidade.  
+  * Criei e melhorei rotinas de trabalho com novas tecnologias, além de desenvolver relatórios e fluxos de BI que apoiaram a gestão.  
+  * Prestei suporte técnico ao parque tecnológico, resolvendo incidentes e mantendo a infraestrutura operacional.
 
 ---
 
 #### ANALISTA DE SISTEMAS | 08/2015 - 06/2016
-**ECOCENTAUROS** - Ariquemes-RO
-* Prestei suporte técnico aos clientes em todos os módulos do sistema, garantindo a resolução ágil de demandas.  
-* Realizei a implantação e o treinamento de novos clientes, facilitando a adoção da solução e a redução de curva de aprendizado.  
-* Desenvolvi e personalizei relatórios sob demanda, atendendo necessidades específicas de cada cliente.
+* **ECOCENTAUROS** - Ariquemes-RO
+  * Prestei suporte técnico aos clientes em todos os módulos do sistema, garantindo a resolução ágil de demandas.  
+  * Realizei a implantação e o treinamento de novos clientes, facilitando a adoção da solução e a redução de curva de aprendizado.  
+  * Desenvolvi e personalizei relatórios sob demanda, atendendo necessidades específicas de cada cliente.
 
 ---
 
 #### GESTOR DEPARTAMENTO TI | 03/2013 - 04/2015
-**CONCESSIONÁRIA RONDOMOTOS** - Ariquemes-RO
-* Gerenciei a equipe de TI e administrei servidores Linux e sistemas em todas as lojas e matrizes da rede no Brasil.  
-* Prestei suporte aos usuários e desenvolvi sistemas de apoio que criaram novas rotinas de trabalho, aumentando a eficiência operacional.  
-* Garanti a estabilidade da infraestrutura tecnológica em múltiplas unidades, contribuindo para a continuidade dos negócios.
+* **CONCESSIONÁRIA RONDOMOTOS** - Ariquemes-RO
+  * Gerenciei a equipe de TI e administrei servidores Linux e sistemas em todas as lojas e matrizes da rede no Brasil.  
+  * Prestei suporte aos usuários e desenvolvi sistemas de apoio que criaram novas rotinas de trabalho, aumentando a eficiência operacional.  
+  * Garanti a estabilidade da infraestrutura tecnológica em múltiplas unidades, contribuindo para a continuidade dos negócios.
 
 ---
 
