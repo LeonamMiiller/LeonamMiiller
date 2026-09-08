@@ -2,25 +2,27 @@
 ---
 
 <!-- ------------------------------------------------------- CABEÇALHO ------------------------------------------------------- -->
-<a href="https://github.com/LeonamMiiller">
-  <img src="https://github.com/LeonamMiiller.png" 
+<p>
+<pre>
+<a href="https://github.com/LeonamMiiller"><img 
+       src="https://github.com/LeonamMiiller.png" 
        alt="Perfil Github" 
        title="Acessar perfil do Github" 
        align="left" 
-       width="250" 
-       vspace="20" 
-       hspace="12%" 
+       width="250"
+       hspace="5%" 
        style="margin: 30px">
 </a>
-<br>
-<br>
+<pre>
 
-### _LEONAM WON-MIILLER DOS SANTOS_
----
-_Desenvolvedor de Software_    
+# _LEONAM WON-MIILLER DOS SANTOS_
+ _Desenvolvedor de Software_
 
+</pre>
+</pre>
+</p>
 <br clear="left">
-<br>
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->   
 
