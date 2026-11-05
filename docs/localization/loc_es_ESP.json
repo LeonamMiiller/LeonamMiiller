@@ -1,0 +1,300 @@
+{
+  "title": "Leonam Miiller",
+  "description": "Portafolio y currículum de Leonam Miiller — Desarrollador de Software en Cascavel-PR, Brasil.",
+  "profile": {
+    "fullName": "Leonam Won-Miiller dos Santos",
+    "displayName": "Leonam Miiller",
+    "role": "Desarrollador de Software",
+    "tagline": "Soluciones escalables con Delphi, Flutter, APIs REST y cloud.",
+    "avatar": "https://github.com/LeonamMiiller.png?size=256",
+    "summary": [
+      "Soy Desarrollador de Software con experiencia en Delphi, Flutter, APIs REST, bases de datos y cloud. Trabajo en proyectos desafiantes donde puedo aportar soluciones escalables y seguir evolucionando técnicamente.",
+      "Me mantengo siempre actualizado mediante cursos en línea, video clases, tutoriales y documentación oficial."
+    ]
+  },
+  "personal": {
+    "nationality": "Brasileño",
+    "birthDate": "20/04/1992",
+    "maritalStatus": "Casado"
+  },
+  "skills": {
+    "english": "Inglés",
+    "delphi": "Delphi",
+    "postgresql": "PostgreSQL",
+    "flutter": "Flutter",
+    "dart": "Dart",
+    "rest-api": "API REST",
+    "mysql": "MySQL",
+    "java": "Java",
+    "angular": "Angular",
+    "linux": "Linux",
+    "windows": "Windows",
+    "docker": "Docker",
+    "csharp": "C# .NET Core",
+    "mongodb": "MongoDB",
+    "visual-foxpro": "Visual FoxPro",
+    "azure": "MS Azure",
+    "aws": "AWS",
+    "jira": "Atlassian Jira"
+  },
+  "experience": [
+    {
+      "role": "Analista Desarrollador Senior",
+      "company": "NSTECH",
+      "location": "São Bernardo do Campo - SP, Brasil",
+      "period": "08/2024 – 02/2026",
+      "highlights": [
+        "Desarrollé y mantuve el sistema principal de la empresa utilizando Delphi/Pascal, OracleDB, NextJS y diversos frameworks.",
+        "Capacité técnicamente al equipo de desarrollo, aumentando la productividad y estandarizando prácticas.",
+        "Lideré la adopción de nuevas tecnologías y la implementación de planes de proyectos."
+      ]
+    },
+    {
+      "role": "Analista Desarrollador",
+      "company": "Maker Soluções Tecnológicas",
+      "location": "Cascavel - PR, Brasil",
+      "period": "09/2023 – 08/2024",
+      "highlights": [
+        "Analicé y desarrollé integraciones entre diversos sistemas, mejorando la comunicación y el flujo de datos entre plataformas.",
+        "Entregué soluciones de integración que optimizaron procesos operativos y redujeron el retrabajo manual."
+      ]
+    },
+    {
+      "role": "Analista Desarrollador Senior",
+      "company": "Linx",
+      "location": "Cascavel - PR, Brasil",
+      "period": "10/2020 – 04/2022",
+      "highlights": [
+        "Desarrollé soluciones de software orientadas a mejorar rutinas, procesos y gestión, generando mayor eficiencia operativa.",
+        "Participé en la evolución de sistemas existentes, contribuyendo a optimizar flujos de trabajo y apoyar la toma de decisiones."
+      ]
+    },
+    {
+      "role": "Analista Desarrollador",
+      "company": "A3Q Laboratorios",
+      "location": "Cascavel - PR, Brasil",
+      "period": "05/2017 – 09/2020",
+      "highlights": [
+        "Fui responsable del desarrollo y mantenimiento del sistema principal de la empresa, asegurando el funcionamiento continuo de las operaciones.",
+        "Administré servidores Linux, bases de datos y el flujo de datos de la organización, garantizando estabilidad, seguridad y disponibilidad.",
+        "Creé y mejoré rutinas de trabajo con nuevas tecnologías, además de desarrollar reportes y flujos de BI que apoyaron la gestión.",
+        "Brindé soporte técnico al parque tecnológico, resolviendo incidentes y manteniendo la infraestructura operativa."
+      ]
+    },
+    {
+      "role": "Analista de Sistemas",
+      "company": "Ecocentauros",
+      "location": "Ariquemes - RO, Brasil",
+      "period": "08/2015 – 06/2016",
+      "highlights": [
+        "Brindé soporte técnico a los clientes en todos los módulos del sistema, asegurando la resolución ágil de demandas.",
+        "Realicé la implantación y la capacitación de nuevos clientes, facilitando la adopción de la solución y reduciendo la curva de aprendizaje.",
+        "Desarrollé y personalicé reportes bajo demanda, atendiendo necesidades específicas de cada cliente."
+      ]
+    },
+    {
+      "role": "Gerente de Departamento de TI",
+      "company": "Concesionaria Rondomotos",
+      "location": "Ariquemes - RO, Brasil",
+      "period": "03/2013 – 04/2015",
+      "highlights": [
+        "Gestioné el equipo de TI y administré servidores Linux y sistemas en todas las tiendas y sedes de la red en Brasil.",
+        "Atendí a los usuarios y desarrollé sistemas de apoyo que crearon nuevas rutinas de trabajo, aumentando la eficiencia operativa.",
+        "Garanticé la estabilidad de la infraestructura tecnológica en múltiples unidades, contribuyendo a la continuidad del negocio."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Tecnología en Análisis y Desarrollo de Sistemas",
+      "status": "En curso",
+      "institution": "Facultad Univel",
+      "location": "Cascavel - PR, Brasil",
+      "description": "Desarrollar competencias para analizar las necesidades y demandas de la sociedad, construir soluciones que exploren y apliquen los recursos de informática y de nuevas tecnologías, actuar con principios éticos y promover el desarrollo humano."
+    }
+  ],
+  "projects": [
+    {
+      "name": "LiquidGear",
+      "description": "Editor de archivos *.sdt de Metal Gear Solid 3 / Collection HD.",
+      "url": "https://github.com/LeonamMiiller/LiquidGear",
+      "language": "Visual Basic",
+      "stars": 13,
+      "topics": [
+        "Herramientas",
+        "Ingeniería inversa",
+        "PS3"
+      ]
+    },
+    {
+      "name": "Onimusha-Dawn-of-Dreams-Patch-to-DVD9",
+      "description": "Patch de disco único DVD9 para Onimusha: Dawn of Dreams (USA) — SLUS-211.80.",
+      "url": "https://github.com/LeonamMiiller/Onimusha-Dawn-of-Dreams-Patch-to-DVD9",
+      "language": "Batchfile",
+      "stars": 12,
+      "topics": [
+        "PS2",
+        "Patch"
+      ]
+    },
+    {
+      "name": "MilkGear",
+      "description": "Editor de texturas *.ctxr de Metal Gear Solid 3 / Collection HD (PS3).",
+      "url": "https://github.com/LeonamMiiller/MilkGear",
+      "language": "Visual Basic",
+      "stars": 7,
+      "topics": [
+        "Herramientas",
+        "Ingeniería inversa",
+        "PS3"
+      ]
+    },
+    {
+      "name": "rE2MD",
+      "description": "Visor de modelos EMD de Resident Evil 1.5/2.",
+      "url": "https://github.com/LeonamMiiller/rE2MD",
+      "language": "C#",
+      "stars": 4,
+      "topics": [
+        "Herramientas",
+        "Ingeniería inversa"
+      ]
+    },
+    {
+      "name": "PS2Tools",
+      "description": "Colección de herramientas para ingeniería y modding de juegos de PlayStation 2.",
+      "url": "https://github.com/LeonamMiiller/PS2Tools",
+      "language": "Batchfile",
+      "stars": 4,
+      "topics": [
+        "PS2",
+        "Herramientas"
+      ]
+    },
+    {
+      "name": "Midnight-Club-3-Dub-Remix-DVD9-to-DVD5-patch",
+      "description": "Patch DVD9 → DVD5 para Midnight Club 3: DUB Edition Remix, incluyendo una versión FAT32 más pequeña para OPL.",
+      "url": "https://github.com/LeonamMiiller/Midnight-Club-3-Dub-Remix-DVD9-to-DVD5-patch",
+      "language": "Batchfile",
+      "stars": 3,
+      "topics": [
+        "PS2",
+        "Patch"
+      ]
+    },
+    {
+      "name": "uXXX",
+      "description": "Extractor e insertor experimental de paquetes de Unreal Engine (XXX).",
+      "url": "https://github.com/LeonamMiiller/uXXX",
+      "language": "Visual Basic",
+      "stars": 3,
+      "topics": [
+        "Herramientas",
+        "Unreal Engine"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Luiz R. A. F. Curado",
+      "role": "Desarrollador / Arquitecto Java",
+      "github": "https://github.com/cfarl",
+      "linkedin": "https://www.linkedin.com/in/luiz-reginaldo-curado"
+    },
+    {
+      "name": "Adriano Moreira",
+      "role": "Analista Sr. Desarrollador",
+      "github": "https://github.com/adriano-moreira",
+      "linkedin": "https://www.linkedin.com/in/moreira-adriano"
+    }
+  ],
+  "contact": {
+    "phone": "+55 45 99844-6320",
+    "email": "leonam.miiller@gmail.com",
+    "location": "Cascavel - PR, Brasil",
+    "socials": [
+      {
+        "network": "github",
+        "label": "GitHub",
+        "url": "https://github.com/LeonamMiiller"
+      },
+      {
+        "network": "linkedin",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leonam-miiller"
+      }
+    ]
+  },
+  "ui": {
+    "localeLabel": "Español",
+    "nav": [
+      {
+        "text": "Inicio",
+        "link": "/"
+      },
+      {
+        "text": "Currículum",
+        "link": "/curriculum"
+      },
+      {
+        "text": "Proyectos",
+        "link": "/projects"
+      },
+      {
+        "text": "Contacto",
+        "link": "/contact"
+      }
+    ],
+    "sidebar": {
+      "main": "Navegación",
+      "connect": "Conéctate"
+    },
+    "hero": {
+      "ctaResume": "Ver currículum",
+      "ctaProjects": "Ver proyectos",
+      "ctaContact": "Contáctame"
+    },
+    "labels": {
+      "skills": "Habilidades",
+      "experience": "Experiencia",
+      "education": "Formación",
+      "projects": "Proyectos",
+      "references": "Referencias",
+      "personalData": "Datos personales",
+      "objective": "Objetivo",
+      "period": "Período",
+      "company": "Empresa",
+      "location": "Ubicación",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "nationality": "Nacionalidad",
+      "birthDate": "Fecha de nacimiento",
+      "maritalStatus": "Estado civil",
+      "stars": "estrellas",
+      "viewAll": "Ver todo",
+      "viewProject": "Ver proyecto"
+    },
+    "categories": {
+      "spoken": "Idiomas",
+      "language": "Lenguajes de programación",
+      "framework": "Frameworks",
+      "web": "Web y APIs",
+      "database": "Bases de datos",
+      "cloud": "Cloud y DevOps",
+      "tool": "Sistemas y herramientas"
+    },
+    "footer": {
+      "message": "Hecho con VitePress",
+      "copyright": "© 2026 Leonam Miiller"
+    },
+    "theme": {
+      "outlineTitle": "En esta página",
+      "lastUpdated": "Actualizado",
+      "docFooterPrev": "Página anterior",
+      "docFooterNext": "Página siguiente",
+      "returnToTop": "Volver arriba",
+      "sidebarMenuLabel": "Menú",
+      "darkModeLabel": "Cambiar tema"
+    }
+  }
+}

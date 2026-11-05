@@ -1,0 +1,32 @@
+{
+  "name": "leonammiiller-portfolio",
+  "version": "2.0.0",
+  "description": "Portfólio multilíngue (pt-BR, en, es) de Leonam Miiller — VitePress",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonamMiiller/LeonamMiiller.git"
+  },
+  "keywords": [
+    "portfolio",
+    "vitepress",
+    "cv",
+    "i18n"
+  ],
+  "author": "Leonam Miiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonamMiiller/LeonamMiiller/issues"
+  },
+  "homepage": "https://github.com/LeonamMiiller/LeonamMiiller#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4"
+  }
+}

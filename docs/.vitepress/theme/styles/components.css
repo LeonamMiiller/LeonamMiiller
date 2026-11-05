@@ -1,0 +1,497 @@
+/**
+ * Estilos dos componentes do portfólio — mobile first.
+ * Base: telas pequenas; ajustes em `min-width` para tablet/desktop.
+ * Todos os seletores usam `.vp-doc` para vencer a especificidade
+ * dos estilos de documentação do tema padrão.
+ */
+
+/* ------------------------------------------------------------------ Hero */
+
+.vp-doc .pf-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  text-align: center;
+  padding: 1.25rem 0 0.5rem;
+}
+
+.vp-doc .pf-hero__avatar {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--vp-c-brand-soft);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
+.vp-doc .pf-hero__role {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+}
+
+.vp-doc .pf-hero__name {
+  margin: 0.3rem 0;
+  border: none;
+  font-size: 28px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.vp-doc .pf-hero__tagline {
+  margin: 0.25rem auto;
+  max-width: 42rem;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-hero__location {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  margin: 0.5rem 0 0;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.1rem;
+}
+
+/* Alvo de toque confortável no mobile */
+.vp-doc .pf-hero__actions .vp-button {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .vp-doc .pf-hero {
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    gap: 2rem;
+    padding: 2rem 0 1rem;
+  }
+
+  .vp-doc .pf-hero__avatar {
+    width: 128px;
+    height: 128px;
+    flex: none;
+  }
+
+  .vp-doc .pf-hero__name {
+    font-size: 40px;
+  }
+
+  .vp-doc .pf-hero__actions {
+    justify-content: flex-start;
+  }
+}
+
+/* ----------------------------------------------------------------- Cards */
+
+.vp-doc .pf-card {
+  margin: 0.75rem 0;
+  padding: 1rem 1.1rem;
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: var(--pf-radius);
+}
+
+.vp-doc .pf-card__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.vp-doc .pf-card__title {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.35;
+}
+
+.vp-doc .pf-card__meta {
+  margin: 0.35rem 0 0;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-card__text {
+  margin: 0.6rem 0 0;
+  font-size: 14.5px;
+  line-height: 1.65;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-badge {
+  padding: 0.15rem 0.65rem;
+  border-radius: 999px;
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  font-size: 12.5px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* --------------------------------------------------------------- Skills */
+
+.vp-doc .pf-skill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(94px, 1fr));
+  gap: 0.7rem;
+  margin: 1rem 0;
+}
+
+.vp-doc .pf-skill {
+  margin: 0;
+  padding: 0.85rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  text-align: center;
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.vp-doc .pf-skill:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+}
+
+.vp-doc .pf-skill img {
+  width: 40px;
+  height: 40px;
+  margin: 0;
+}
+
+.vp-doc .pf-skill figcaption {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.3;
+  color: var(--vp-c-text-2);
+  overflow-wrap: anywhere;
+}
+
+.vp-doc .pf-skill-group h3 {
+  margin-top: 1.75rem;
+}
+
+.vp-doc .pf-skill-group:first-child h3 {
+  margin-top: 0.5rem;
+}
+
+.vp-doc .pf-more {
+  margin: 0.5rem 0 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .vp-doc .pf-skill-grid {
+    grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+    gap: 0.9rem;
+  }
+}
+
+/* ------------------------------------------------------------- Timeline */
+
+.vp-doc ol.pf-timeline {
+  list-style: none;
+  margin: 1.25rem 0;
+  padding: 0;
+  border-left: 2px solid var(--vp-c-divider);
+}
+
+.vp-doc .pf-timeline__item {
+  position: relative;
+  padding: 0 0 1.75rem 1.25rem;
+}
+
+.vp-doc .pf-timeline__item:last-child {
+  padding-bottom: 0.25rem;
+}
+
+.vp-doc .pf-timeline__item::before {
+  content: '';
+  position: absolute;
+  top: 0.45rem;
+  left: -6px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: var(--vp-c-brand-1);
+  box-shadow: 0 0 0 3px var(--vp-c-bg);
+}
+
+.vp-doc .pf-timeline__period {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--vp-c-brand-1);
+}
+
+.vp-doc .pf-timeline__role {
+  margin: 0.2rem 0 0;
+  font-size: 17px;
+  line-height: 1.35;
+}
+
+.vp-doc .pf-timeline__company {
+  margin: 0.15rem 0 0.4rem;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-timeline__highlights {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 14.5px;
+  line-height: 1.65;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-timeline__highlights li {
+  margin: 0.3rem 0;
+}
+
+/* ------------------------------------------------------------- Projects */
+
+.vp-doc .pf-project-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+
+.vp-doc .pf-project {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+  background-color: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: var(--pf-radius);
+  transition:
+    border-color 0.2s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.vp-doc .pf-project:hover {
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+}
+
+.vp-doc .pf-project__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.vp-doc .pf-project__name {
+  margin: 0;
+  font-size: 15.5px;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.vp-doc .pf-project__stars {
+  flex: none;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--pf-star);
+  white-space: nowrap;
+}
+
+.vp-doc .pf-project__description {
+  margin: 0;
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-project__footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.35rem;
+}
+
+.vp-doc .pf-tag {
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  background-color: var(--vp-c-default-soft, rgba(142, 150, 170, 0.14));
+  color: var(--vp-c-text-2);
+  font-size: 11.5px;
+}
+
+.vp-doc .pf-project__cta {
+  margin-left: auto;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+}
+
+@media (min-width: 768px) {
+  .vp-doc .pf-project-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* -------------------------------------------------------- Personal data */
+
+.vp-doc .pf-data {
+  margin: 1rem 0;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: var(--pf-radius);
+  overflow: hidden;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.vp-doc .pf-data__row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc .pf-data__row:first-child {
+  border-top: none;
+}
+
+.vp-doc .pf-data dt {
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-data dd {
+  margin: 0;
+  font-size: 14.5px;
+}
+
+@media (min-width: 640px) {
+  .vp-doc .pf-data__row {
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .vp-doc .pf-data dt {
+    flex: none;
+    width: 190px;
+  }
+}
+
+/* --------------------------------------------------------------- Contact */
+
+.vp-doc .pf-contact-list {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.vp-doc .pf-contact {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.vp-doc .pf-contact__label {
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc .pf-contact__value {
+  font-size: 15.5px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  overflow-wrap: anywhere;
+}
+
+.vp-doc .pf-socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.25rem 0;
+}
+
+.vp-doc .pf-socials .vp-button {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .vp-doc .pf-contact-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ------------------------------------------------------------ References */
+
+.vp-doc .pf-reference-grid {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+
+.vp-doc .pf-reference-grid .pf-card {
+  margin: 0;
+}
+
+.vp-doc .pf-reference__links {
+  display: flex;
+  gap: 0.85rem;
+  margin: 0.6rem 0 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .vp-doc .pf-reference-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* --------------------------------------------------------------- Summary */
+
+.vp-doc .pf-summary p {
+  margin: 0.75rem 0;
+  line-height: 1.7;
+  color: var(--vp-c-text-2);
+}
